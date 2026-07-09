@@ -10,6 +10,7 @@ class Gaming extends Component {
   render() {
     return (
       <div style={divStyle}>
+        <p>Could take some time to load...</p>
         <iframe src="https://cardboardbutler.azureedge.net/#usernames=henchmanpdx" title="gaming"></iframe>
       </div>
     )

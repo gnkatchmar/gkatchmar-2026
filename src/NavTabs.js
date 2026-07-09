@@ -68,7 +68,7 @@ class NavTabs extends React.Component {
             <Tab label="Our DVDs & Blu-Rays" value = "/DVDs"/>
             <Tab label="Music Collection" value = "/Music"/>                        
             <Tab label="Dining Guides" value = "/dining"/>
-            <Tab label="Restaurant Ratings" value = "/restaurants"/>
+            <Tab label="Restaurant Guide/Graveyard" value = "/restaurants"/>
             <Tab label="Cocktail Guides" value = "/cocktails"/>
           </Tabs>
         </AppBar>

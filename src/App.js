@@ -7,7 +7,7 @@ import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward';
 import ScrollToTop from "react-scroll-up";
 import NavTabs from "./NavTabs";
 
-const defaultTheme = createTheme();
+let defaultTheme = createTheme();
 
 function App(props) {
   const classes = props.classes;
